@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data Types/Data Types.iml" filepath="$PROJECT_DIR$/Data Types/Data Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Programs.iml" filepath="$PROJECT_DIR$/.idea/Java Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Morning/Morning.iml" filepath="$PROJECT_DIR$/Morning/Morning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+    </modules>
+  </component>
+</project>
