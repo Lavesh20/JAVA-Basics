@@ -7,5 +7,6 @@ public class Main {
            System.out.println(myArray[i]);
        }
         System.out.println(myArray[5]);
+        System.out.println(myArray.length);
     }
 }
