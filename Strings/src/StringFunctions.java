@@ -17,5 +17,8 @@ public class StringFunctions {
         System.out.println(str1.toLowerCase());
         String str2 = "       Lavesh     ";
         System.out.println(str2.trim());
+        String str3 = "Hello World";
+        str3.toUpperCase();
+        System.out.println(str3);
     }
 }
